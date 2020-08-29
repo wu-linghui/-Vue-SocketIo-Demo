@@ -1,4 +1,4 @@
-# wxchat
+# wechat
 
 ## Project setup
 ```
